@@ -1,0 +1,8 @@
+## Best python modules
+https://www.oreilly.com/learning/20-python-libraries-you-arent-using-but-should
+
+
+## Desktop apps with JS and HTML
+https://github.com/r0x0r/pywebview
+https://github.com/electron/electron
+https://github.com/cztomczak/cefpython
